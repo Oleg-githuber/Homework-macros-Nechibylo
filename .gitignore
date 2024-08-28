@@ -1,0 +1,6 @@
+*.vs/
+*/Debug/
+*/x64/
+Task1/Task1/
+Task2/Task2/
+*.user
